@@ -2,6 +2,8 @@
 
 # QR Store Application, where everyone can create their own QR code using Next.js@15.
 
+Create Your Account via Kinde. Fill the missing contents. Then add your links. Don't worry! You can add as much as you want.
+
 ![FireShot Capture 001 - Get Your Free QR Code - localhost](https://github.com/user-attachments/assets/1947197d-a160-480f-8593-9cb9a9d21efc)
 
 <!-- Table of Contents -->
